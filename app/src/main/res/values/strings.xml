@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Aula06</string>
+    <string name="ola_fafica">Olá alunos</string>
+    <string name="configuracoes">Configurações</string>
+    <string name="nome">Nome</string>
+    <string name="endereco">Endereço</string>
+    <string name="regioes">Escolha a região</string>
+
+</resources>
